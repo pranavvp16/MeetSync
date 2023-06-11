@@ -24,7 +24,7 @@ start_time,end_time,speaker,text
 00:01:50,00:01:55,Dr. Chen,"That sounds like a comprehensive plan. We can allocate time for individual exploration and then regroup to discuss our findings."
 00:01:55,00:02:00,Dr. Johnson,"Agreed. Let's schedule a follow-up meeting to share our results and decide on the next steps."
 00:02:00,00:02:05,Dr. Rodriguez,"I'll create a meeting invitation and circulate it to the team."
-,00:02:10,Dr. Chen,"Thank you, Dr. Rodriguez. It's essential to have a structured plan for this tuning process."
+00:02:05,00:02:10,Dr. Chen,"Thank you, Dr. Rodriguez. It's essential to have a structured plan for this tuning process."
 00:02:10,00:02:15,Dr. Johnson,"Absolutely. A systematic approach will help us make informed decisions."
 00:02:15,00:02:20,Dr. Rodriguez,"In the meantime, we should also consider the computational resources required for these experiments."
 00:02:20,00:02:25,Dr. Chen,"That's a good point. We need to ensure we have access to sufficient computing power."
