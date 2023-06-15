@@ -1,4 +1,4 @@
-start_time,end_time,speaker,"text"
+start_time,end_time,speaker,text
 00:00:00,00:00:05,Alice,"Good morning, everyone!"
 00:00:05,00:00:10,Bob,"Morning, Alice! How's it going?"
 00:00:10,00:00:15,Alice,"Not too bad. I've been working on that new feature we discussed."
