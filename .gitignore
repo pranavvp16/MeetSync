@@ -1,3 +1,4 @@
 .env
 .idea
 examples.ipynb
+__pycache__
