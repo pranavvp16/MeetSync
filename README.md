@@ -1,0 +1,4 @@
+# 🦜⛓️ MeetSync
+In today's fast-paced world, effective communication and collaboration are crucial for successful project management. Meetings play a vital role in fostering teamwork and exchanging valuable information. However, keeping track of action items and important tasks discussed during meetings can be challenging and time-consuming. That's where MeetSync comes in.
+
+MeetSync is a project developed using the Langchain framework and powered by OpenAI GPT-3.5 turbo language model. Its primary objective is to streamline the process of extracting action items from video transcripts, making it easier than ever to capture and organize crucial tasks assigned during meetings.
